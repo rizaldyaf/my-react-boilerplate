@@ -1,0 +1,82 @@
+[2019-10-02 21:06:48.982] [exthost] [info] extension host started
+[2019-10-02 21:06:49.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:06:49.069] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-02 21:06:49.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:06:49.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-10-02 21:06:49.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:06:49.376] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-10-02 21:06:49.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:06:49.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-02 21:06:49.890] [exthost] [info] eager extensions activated
+[2019-10-02 21:08:34.511] [exthost] [info] extension host started
+[2019-10-02 21:08:34.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:08:34.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-02 21:08:34.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:08:34.574] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-10-02 21:08:34.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:08:34.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-10-02 21:08:35.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-02 21:08:35.308] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-02 21:08:35.345] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-10-02 21:08:35.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/main
+[2019-10-02 21:08:35.567] [exthost] [info] eager extensions activated
+[2019-10-02 21:08:46.425] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-02 21:08:46.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2019-10-02 21:08:46.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-02 21:08:46.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-10-02 21:08:46.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-02 21:08:46.992] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-02 21:09:39.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-10-02 21:09:39.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-10-02 21:19:43.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-02 21:19:43.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-02 21:36:14.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-10-02 21:36:14.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/grunt/dist/main
+[2019-10-02 21:36:15.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-10-02 21:36:15.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/gulp/dist/main
+[2019-10-02 21:36:16.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-10-02 21:36:16.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/jake/dist/main
+[2019-10-02 21:36:16.666] [exthost] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode {"startup":false,"activationEvent":"*"}
+[2019-10-02 21:36:16.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.14/js/main
+[2019-10-02 21:38:13.409] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-02 21:38:13.458] [exthost] [error] Error: <semantic> TypeScript Server Error (3.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.getImportCompletionAction (tsserver.js:118565:22)
+    at getCompletionEntryCodeActionsAndSourceDisplay (tsserver.js:102492:33)
+    at Object.getCompletionEntryDetails (tsserver.js:102456:30)
+    at Object.getCompletionEntryDetails (tsserver.js:125486:35)
+    at tsserver.js:134693:57
+    at Object.mapDefined (tsserver.js:680:30)
+    at IOSession.Session.getCompletionEntryDetails (tsserver.js:134691:33)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:133654:61)
+    at tsserver.js:135178:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:135169:28)
+    at IOSession.Session.executeCommand (tsserver.js:135178:33)
+    at IOSession.Session.onMessage (tsserver.js:135201:35)
+    at Interface.<anonymous> (tsserver.js:136516:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+	at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63463)
+	at h.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56618)
+	at h.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55516)
+	at constructor._reader.onData.e (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:53:54992)
+	at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at t.Reader.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61683)
+	at Socket.t.Reader.constructor.e.on.e (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61331)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-10-02 21:44:47.627] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-02 21:44:47.717] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:559:660)
+	at define.resolveCompletionItem.o.asPromise.then.e (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:559:290)
